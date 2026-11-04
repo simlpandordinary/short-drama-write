@@ -21,22 +21,22 @@
 ├── README.upstream.md
 ├── SKILL.md
 ├── scripts/
-├── duration_estimate.py
-├── screenplay_index.py
-└── selftest.py
+│   ├── duration_estimate.py
+│   ├── screenplay_index.py
+│   └── selftest.py
 ├── references/
-├── dialogue-craft.md
-├── production-format-dialect.md
-├── scene-handoff-capsule.md
-├── scene-sound-dramaturgy.md
-├── screenplay-format.md
-├── script-craft.md
-├── stage-contract.md
-└── substitutable-realization.md
+│   ├── dialogue-craft.md
+│   ├── production-format-dialect.md
+│   ├── scene-handoff-capsule.md
+│   ├── scene-sound-dramaturgy.md
+│   ├── screenplay-format.md
+│   ├── script-craft.md
+│   ├── stage-contract.md
+│   └── substitutable-realization.md
 ├── assets/
-└── screenplay.md
+│   └── screenplay.md
 └── agents/
-└── openai.yaml
+    └── openai.yaml
 ```
 
 - `SKILL.md` 是技能入口（触发条件 / 工作流 / 约束），安装时必须位于技能根目录。
